@@ -145,6 +145,7 @@ int write_num(int ind, char buffer[],
  * @flags: Flags specifiers
  * @width: Width specifier
  * @width: Width specifier
+ * @precision: precision specifier
  * @size: Size specifier
  *
  * Return: Number of written chars
